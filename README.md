@@ -30,29 +30,72 @@ How to Build Value through Values
 * [As work gets more complex, 6 rules to simplify](http://www.ted.com/talks/yves_morieux_as_work_gets_more_complex_6_rules_to_simplify) / Yves Morieux (<img src="http://i.imgur.com/cHPNzye.png?1" alt="TED" style="width: 16px;"/> 12:01)
 * [The 5 dysfunctions of a team](https://www.youtube.com/watch?v=inftqUOLFaM) / Patrick Lencioni, (![youtube](http://www.midmarkanimalhealth.com/images/librariesprovider4/default-library/youtube_icon.png) 40:57)
 
-# Culture
+## Culture
 * [Your Company’s Purpose Is Not Its Vision, Mission, or Values](https://hbr.org/2014/09/your-companys-purpose-is-not-its-vision-mission-or-values/) / Graham Kenny
 * [How Netflix Reinvented HR](https://hbr.org/2014/01/how-netflix-reinvented-hr) / Patty McCord
 * [The Buffer Culture](http://www.slideshare.net/Bufferapp/buffer-culture-03) / Buffer (slides)
 * [The Hubspot Culture](http://www.slideshare.net/HubSpot/the-hubspot-culture-code-creating-a-company-we-love) / Hubspot (slides)
 * [Github, Optimizing for Happiness](https://speakerdeck.com/mojombo/optimizing-for-happiness) / Tom Preston-Werner (slides)
 
-# One on One Meetings
+## One on One Meetings
 * [Manager Tips for effective 1:1 meetings](https://www.linkedin.com/pulse/20140619213446-1490911-manager-tips-for-effective-1-1-meetings)
 * [The Update, The Vent, and The Disaster](http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/)
 * [How Can Employers and Employees Get the Most Out of One-On-One Meetings?](http://mashable.com/2014/09/22/one-on-one-meetings/)
 
-# Interviews & Hiring
+## Interviews & Hiring
 * [This is why you never end up hiring good developers](http://qz.com/258066/this-is-why-you-dont-hire-good-developers/)
 * [7 Surprising Lessons on Hiring from Google’s Big Data Research](http://recruitloop.com/blog/7-lessons-on-hiring-from-googles-big-data-research/)
 * [David Weekly on Hiring, Firing & Cofounders](https://vimeo.com/13335480) / (<img src="http://www.senatedems.ct.gov/im/icon-vimeo16.png" alt="Vimeo" style="width: 16px;"/> 33:01)
 * [The two things you need to know about developer recruiting](http://www.greenwave-solutions.com/the-two-things-you-need-to-know-about-developer-recruiting/)
 * [The Guerrilla Guide to Interviewing](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html) / Joel Spolsky
 
-## איך זה עובד
-* [קישקוש קטן בעברית]()
-* ה פה תמיכה בעב
-* רית וכתיבה מימין לשמאל. הבעיה היא שזה כותב טוב, אבל בתרגום בתיבה למטה שמצי
-גה כמו שזה אמור להראות זה לא עובד טוב.
+## Transactional Analysis
+* [About Transacional Analysis](http://www.businessballs.com/transact.htm)
+* [TA Videos on youtube](https://www.youtube.com/watch?v=lnMmO2PdKZY)
 
-The
+## Adizes Mthodology
+* [What’s Your Work Personality?](http://www.wix.com/blog/2013/06/your-work-personality/)
+* [Video lectures by Adizes](https://www.youtube.com/watch?v=UGXqXfm5RMU&list=PL11BBA85A2C68289A)
+
+# עברית
+## ספרים
+* [שינווי:יצירת בעיות ופתירתן](http://simania.co.il/bookdetails.php?item_id=6141
+)/ פאול ואצלאוויק
+* [הארגון הלומד](http://matarbooks.co.il/index.php?book=0117
+) / פיטר מ.סנג'י
+* [גלגל התנופה: מטוב למצויין](http://www.steimatzky.co.il/Steimatzky/Pages/Product.aspx?ProductID=12130021
+)  / ג׳ים קולינס
+* [שנה בלי מכנסיים](http://www.booknet.co.il/prodtxt.asp?id=67449#.VTlePBOUfZk
+) / סקוט ברקן
+* [	לא רציונלי ולא במקרה  הכוחות הסמויים שמעצבים את ההחלטות שלנו](http://www.matarbooks.co.il/index.php?book=1582
+) / דן אריאלי
+* [להתנהל עם מנהלים](http://www.booknet.co.il/prodtxt.asp?id=58988#.VTlfEBOUfZk
+) /  יצחק קלדרון אדיג´ס
+* [המנהיגים שאנו צריכים](http://matarbooks.co.il/index.php?book=1556
+) / מייקל מאקובי
+
+## בלוגים
+* [כללי אצבע](http://www.fingergesture.co.il/)
+* [דואלוג](http://doalogue.co.il/blog/)
+* [אביב יעוץ עסקי](http://www.avivamcg.com/he/blogs.aspx)
+* [ניהול בגובה העיניים](http://eyelevel.co.il/)
+
+## גיוס וראיונות עבודה
+* [בשורה רעה לגברים גבוהים](http://alaxon.co.il/article/%D7%91%D7%A9%D7%95%D7%A8%D7%94-%D7%A8%D7%A2%D7%94-%D7%9C%D7%92%D7%91%D7%A8%D7%99%D7%9D-%D7%92%D7%91%D7%95%D7%94%D7%99%D7%9D/
+) / דון פק, אלכסון
+* [למה קשה להעסיק עובדים מעולים](http://alaxon.co.il/thought/%D7%9C%D7%9E%D7%94-%D7%A7%D7%A9%D7%94-%D7%9B%D7%9C-%D7%9B%D7%9A-%D7%9C%D7%94%D7%A2%D7%A1%D7%99%D7%A7-%D7%90%D7%A0%D7%A9%D7%99%D7%9D-%D7%9E%D7%A2%D7%95%D7%9C%D7%99%D7%9D/
+) / דרק טומפסון, אלכסון
+* [מדריך הגרילה לראיונות עבודה](http://www.fingergesture.co.il/#!/c1sbz/550f2af80cf21d84af4857a4
+) / ג׳ואל ספולסקי
+* [ראיונות עבודה](http://www.fingergesture.co.il/#!/c1sbz/54b42c770cf2fadc21f2a005) / שי כפיר
+
+## סגנונות ניהול
+* [פרופ' יצחק אדיג'ס: "המנהל שכולם מדברים עליו לא קיים"](http://www.calcalist.co.il/local/articles/0,7340,L-3389318,00.html)
+* [איזה סוג של מנהל אתה: האם אתה זאב בודד או מבעיר שריפות?](http://www.themarker.com/career/1.550402)
+* [מצגת שקופיות של שלמה רוטשילד](http://www.slideshare.net/imun11/ss-24044630)
+* [גוגל](http://bit.ly/1KajTKq)
+
+## מאמרים
+* [כשאמריקה התאגידית גילתה שאפשר לעשות כסף מאלטרואיזם](http://www.haaretz.co.il/magazine/.premium-1.2102951)
+* [המקום היחיד שבו תלושי השכר נחשפים](http://www.themarker.com/career/1.2453901)
+* [ועכשיו בכעס](http://alaxon.co.il/article/%D7%95%D7%A2%D7%9B%D7%A9%D7%99%D7%95-%D7%91%D7%9B%D7%A2%D7%A1/) / ג׳ואן רוג׳רס, אלכסון
