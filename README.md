@@ -29,16 +29,19 @@ How to Build Value through Values
 * [Start with why. How great leaders inspire action](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) / Simon Sinek (<img src="http://i.imgur.com/cHPNzye.png?1" alt="TED" style="width: 16px;"/> 18:04)
 * [As work gets more complex, 6 rules to simplify](http://www.ted.com/talks/yves_morieux_as_work_gets_more_complex_6_rules_to_simplify) / Yves Morieux (<img src="http://i.imgur.com/cHPNzye.png?1" alt="TED" style="width: 16px;"/> 12:01)
 * [The 5 dysfunctions of a team](https://www.youtube.com/watch?v=inftqUOLFaM) / Patrick Lencioni, (![youtube](http://www.midmarkanimalhealth.com/images/librariesprovider4/default-library/youtube_icon.png) 40:57)
+
 # Culture
 * [Your Company’s Purpose Is Not Its Vision, Mission, or Values](https://hbr.org/2014/09/your-companys-purpose-is-not-its-vision-mission-or-values/) / Graham Kenny
 * [How Netflix Reinvented HR](https://hbr.org/2014/01/how-netflix-reinvented-hr) / Patty McCord
 * [The Buffer Culture](http://www.slideshare.net/Bufferapp/buffer-culture-03) / Buffer (slides)
 * [The Hubspot Culture](http://www.slideshare.net/HubSpot/the-hubspot-culture-code-creating-a-company-we-love) / Hubspot (slides)
 * [Github, Optimizing for Happiness](https://speakerdeck.com/mojombo/optimizing-for-happiness) / Tom Preston-Werner (slides)
+
 # One on One Meetings
 * [Manager Tips for effective 1:1 meetings](https://www.linkedin.com/pulse/20140619213446-1490911-manager-tips-for-effective-1-1-meetings)
 * [The Update, The Vent, and The Disaster](http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/)
 * [How Can Employers and Employees Get the Most Out of One-On-One Meetings?](http://mashable.com/2014/09/22/one-on-one-meetings/)
+
 # Interviews & Hiring
 * [This is why you never end up hiring good developers](http://qz.com/258066/this-is-why-you-dont-hire-good-developers/)
 * [7 Surprising Lessons on Hiring from Google’s Big Data Research](http://recruitloop.com/blog/7-lessons-on-hiring-from-googles-big-data-research/)
