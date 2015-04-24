@@ -1,10 +1,25 @@
 # Management Essentials
 
+### English
 * [Leadership / Management](#e-leadership)
-* [Videos](#el-videos)
- 
+  * [Books](#el-books)
+  * [Podcasts, Blogs, Newsletters](#el-podcasts)
+  * [Articles](#el-articles)
+  * [Videos](#el-videos)
+* [Culture](#e-culture)
+* [One on One Meetings](#e-101)
+* [Interviews & Hiring](#e-interviews)
+* [Transactional Analysis](#e-ta)
+
+### Hebrew
+* [ספרים](#h-books)
+* [בלוגים](#h-blogs)
+* [גיוס וראיונות עבודה](#h-hiring)
+* [סגנונות ניהול](#h-adz)
+* [מאמרים](#h-articles)
+
 ## <a name="e-leadership"></a>Leadership / Management
-### <a name=""></a>Books
+### <a name="el-books"></a>Books
 * [**The Hard Thing About Hard Things**](http://www.amazon.com/The-Hard-Thing-About-Things/dp/0062273205) / [*Ben Horowitz*](http://www.amazon.com/Ben-Horowitz/e/B00HALQ722/)<br>Building a Business When There Are No Easy Answers
 * [**The Innovator's Solution**](http://www.amazon.com/The-Innovators-Solution-Sustaining-Successful/dp/1578518520) / [*Clayton M. Christensen*](http://www.amazon.com/Clayton-M.-Christensen/e/B000APPD3Y)<br>Creating and Sustaining Successful Growth
 * [**Good to Great**](http://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996) / [*Jim Collins*](http://www.amazon.com/Jim-Collins/e/B001H6GSHK)<br>Why Some Companies Make the Leap...And Others Don't  
@@ -94,7 +109,7 @@ How to Build Value through Values
 ) / ג׳ואל ספולסקי
 * [ראיונות עבודה](http://www.fingergesture.co.il/#!/c1sbz/54b42c770cf2fadc21f2a005) / שי כפיר
 
-## <a name="h-adz"></a>סגנונות ניהול
+## <a name="h-adz"></a>c
 * [פרופ' יצחק אדיג'ס: "המנהל שכולם מדברים עליו לא קיים"](http://www.calcalist.co.il/local/articles/0,7340,L-3389318,00.html)
 * [איזה סוג של מנהל אתה: האם אתה זאב בודד או מבעיר שריפות?](http://www.themarker.com/career/1.550402)
 * [מצגת שקופיות של שלמה רוטשילד](http://www.slideshare.net/imun11/ss-24044630)
