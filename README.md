@@ -29,6 +29,8 @@
 How to Build Value through Values
 
 ###  <a name="el-podcasts"></a>Podcasts, Blogs, Newsletters
+* [Ben Horowitz's Blog](http://www.bhorowitz.com/)
+* [Blanchard leaderChat](http://leaderchat.org/)
 * [Software Lead Weekly](http://softwareleadweekly.com/) (Newsletter)
 * [Managers Tools](https://www.manager-tools.com/manager-tools-basics) (Podcast)
 
@@ -51,6 +53,7 @@ How to Build Value through Values
 * [The 5 dysfunctions of a team](https://www.youtube.com/watch?v=inftqUOLFaM) / Patrick Lencioni, (![youtube](http://www.midmarkanimalhealth.com/images/librariesprovider4/default-library/youtube_icon.png) 40:57)
 
 ##  <a name="e-culture"></a>Culture
+* [Programming Your Culture](http://www.bhorowitz.com/programming_your_culture) / Ben Horowitz
 * [Your Company’s Purpose Is Not Its Vision, Mission, or Values](https://hbr.org/2014/09/your-companys-purpose-is-not-its-vision-mission-or-values/) / Graham Kenny
 * [How Netflix Reinvented HR](https://hbr.org/2014/01/how-netflix-reinvented-hr) / Patty McCord
 * [The Buffer Culture](http://www.slideshare.net/Bufferapp/buffer-culture-03) / Buffer (slides)
@@ -109,7 +112,7 @@ How to Build Value through Values
 ) / ג׳ואל ספולסקי
 * [ראיונות עבודה](http://www.fingergesture.co.il/#!/c1sbz/54b42c770cf2fadc21f2a005) / שי כפיר
 
-## <a name="h-adz"></a>c
+## <a name="h-adz"></a>סגנונות ניהול
 * [פרופ' יצחק אדיג'ס: "המנהל שכולם מדברים עליו לא קיים"](http://www.calcalist.co.il/local/articles/0,7340,L-3389318,00.html)
 * [איזה סוג של מנהל אתה: האם אתה זאב בודד או מבעיר שריפות?](http://www.themarker.com/career/1.550402)
 * [מצגת שקופיות של שלמה רוטשילד](http://www.slideshare.net/imun11/ss-24044630)
