@@ -43,14 +43,14 @@ How to Build Value through Values
 
 ###  <a name="el-videos"></a>Videos
 * [Lead like the great conductors](http://www.ted.com/talks/itay_talgam_lead_like_the_great_conductors?language=en) / Itay Talgam (<img src="http://i.imgur.com/cHPNzye.png?1" alt="TED" style="width: 16px;"/> 20:51)
-* [Good Boss, Bad Boss: A Peek Inside the Minds of the Best (and Worst)](https://www.youtube.com/watch?v=lmBSh1FGQyY) / Professor Robert Sutton (![youtube](http://www.midmarkanimalhealth.com/images/librariesprovider4/default-library/youtube_icon.png) 1:13:26)
+* [Good Boss, Bad Boss: A Peek Inside the Minds of the Best (and Worst)](https://www.youtube.com/watch?v=lmBSh1FGQyY) / Professor Robert Sutton (![youtube](http://i.imgur.com/M02rfHc.png) 1:13:26)
 * [Why good leaders make you feel safe](http://www.ted.com/talks/simon_sinek_why_good_leaders_make_you_feel_safe?language=en) / Simon Sinek (<img src="http://i.imgur.com/cHPNzye.png?1" alt="TED" style="width: 16px;"/> 11:59)
 * [How to start a movement (3 minutes lecture)](http://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=en) / Derek Sivers (<img src="http://i.imgur.com/cHPNzye.png?1" alt="TED" style="width: 16px;"/> 3:09)
 * [The happy secret to better work](http://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work?nolanguage=enWe) / Shawn Achor (<img src="http://i.imgur.com/cHPNzye.png?1" alt="TED" style="width: 16px;"/> 12:10)
 * [The tribes we lead](http://www.ted.com/talks/seth_godin_on_the_tribes_we_lead?language=en) / Seth Godin (<img src="http://i.imgur.com/cHPNzye.png?1" alt="TED" style="width: 16px;"/> 17:29)
 * [Start with why. How great leaders inspire action](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) / Simon Sinek (<img src="http://i.imgur.com/cHPNzye.png?1" alt="TED" style="width: 16px;"/> 18:04)
 * [As work gets more complex, 6 rules to simplify](http://www.ted.com/talks/yves_morieux_as_work_gets_more_complex_6_rules_to_simplify) / Yves Morieux (<img src="http://i.imgur.com/cHPNzye.png?1" alt="TED" style="width: 16px;"/> 12:01)
-* [The 5 dysfunctions of a team](https://www.youtube.com/watch?v=inftqUOLFaM) / Patrick Lencioni, (![youtube](http://www.midmarkanimalhealth.com/images/librariesprovider4/default-library/youtube_icon.png) 40:57)
+* [The 5 dysfunctions of a team](https://www.youtube.com/watch?v=inftqUOLFaM) / Patrick Lencioni, (![youtube](http://i.imgur.com/M02rfHc.png) 40:57)
 
 ##  <a name="e-culture"></a>Culture
 * [Programming Your Culture](http://www.bhorowitz.com/programming_your_culture) / Ben Horowitz
@@ -71,6 +71,7 @@ How to Build Value through Values
 * [David Weekly on Hiring, Firing & Cofounders](https://vimeo.com/13335480) / (<img src="http://www.senatedems.ct.gov/im/icon-vimeo16.png" alt="Vimeo" style="width: 16px;"/> 33:01)
 * [The two things you need to know about developer recruiting](http://www.greenwave-solutions.com/the-two-things-you-need-to-know-about-developer-recruiting/)
 * [The Guerrilla Guide to Interviewing](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html) / Joel Spolsky
+* [Technical Onboarding, Training and Mentoring](https://www.kateheddleston.com/talk/ef464595-b113-4c1b-9c5b-cc1f3681055c) / [Kate Heddleston](https://kateheddleston.com/) (![youtube](http://i.imgur.com/M02rfHc.png) 28:26)
 
 ## <a name="e-ta"></a>Transactional Analysis
 * [About Transacional Analysis](http://www.businessballs.com/transact.htm)
