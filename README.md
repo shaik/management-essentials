@@ -59,6 +59,7 @@ How to Build Value through Values
 * [The Buffer Culture](http://www.slideshare.net/Bufferapp/buffer-culture-03) / Buffer (slides)
 * [The Hubspot Culture](http://www.slideshare.net/HubSpot/the-hubspot-culture-code-creating-a-company-we-love) / Hubspot (slides)
 * [Github, Optimizing for Happiness](https://speakerdeck.com/mojombo/optimizing-for-happiness) / Tom Preston-Werner (slides)
+* [Not Just Code Monkeys](https://www.youtube.com/watch?t=1274&v=4E3xfR6IBII) / [Martin Fowler](http://www.martinfowler.com/) (![youtube](http://i.imgur.com/M02rfHc.png) 21:28)
 
 ##  <a name="e-101"></a>One on One Meetings
 * [Manager Tips for effective 1:1 meetings](https://www.linkedin.com/pulse/20140619213446-1490911-manager-tips-for-effective-1-1-meetings)
