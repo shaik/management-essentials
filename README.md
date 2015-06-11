@@ -51,6 +51,9 @@ How to Build Value through Values
 * [Start with why. How great leaders inspire action](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) / Simon Sinek (<img src="http://i.imgur.com/cHPNzye.png?1" alt="TED" style="width: 16px;"/> 18:04)
 * [As work gets more complex, 6 rules to simplify](http://www.ted.com/talks/yves_morieux_as_work_gets_more_complex_6_rules_to_simplify) / Yves Morieux (<img src="http://i.imgur.com/cHPNzye.png?1" alt="TED" style="width: 16px;"/> 12:01)
 * [The 5 dysfunctions of a team](https://www.youtube.com/watch?v=inftqUOLFaM) / Patrick Lencioni, (![youtube](http://i.imgur.com/M02rfHc.png) 40:57)
+* [Liz Wiseman of Multipliers and Rookie Smarts
+](https://www.youtube.com/watch?v=RyJ6YRDTw20) / Liz Wiseman (![youtube](http://i.imgur.com/M02rfHc.png) 55:30)
+
 
 ##  <a name="e-culture"></a>Culture
 * [Programming Your Culture](http://www.bhorowitz.com/programming_your_culture) / Ben Horowitz
